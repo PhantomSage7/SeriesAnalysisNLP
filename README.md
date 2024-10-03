@@ -15,7 +15,7 @@ The project is organized into five distinct modules, each addressing a specific 
 
 - theme_classifier: Contains code for identifying and extracting the main themes of the series using zero-shot classifiers.
 
-character_chat_bot: Provides code for developing a character chatbot powered by LLMs, enabling interactive conversations with characters from the series.
+- character_chat_bot: Provides code for developing a character chatbot powered by LLMs, enabling interactive conversations with characters from the series.
 
 # Requirements
 To run the code in this project, ensure all necessary packages are installed by executing:
